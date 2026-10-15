@@ -1,36 +1,66 @@
-<h1>Nicolás Moreno</h1>
-
-<p>
-  <strong>AI Engineer · Co-founder & CTO at <a href="https://bnsolutions.cl">B&N Solutions</a> · Co-founder & CEO at <a href="https://fidelya.cl">FIDELYA</a></strong><br>
-  Santiago, Chile
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Nicolás Moreno — Senior AI Engineer at AGP · Co-founder & CTO at B&N Solutions · Co-founder & CEO at FIDELYA">
 </p>
 
-<p>
-  <a href="https://nicolas-moreno.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-nicolas--moreno.vercel.app-111?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-moreno"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás_Moreno-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://bnsolutions.cl"><img alt="B&N Solutions" src="https://img.shields.io/badge/B%26N_Solutions-bnsolutions.cl-111?style=flat-square"></a>
+<p align="center">
+  <a href="https://nicolas-moreno.vercel.app"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-moreno"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://bnsolutions.cl"><b>B&N Solutions</b></a> &nbsp;·&nbsp;
+  <a href="https://fidelya.cl"><b>FIDELYA</b></a>
 </p>
 
 I studied Physics Engineering and brought that way of thinking to software. Since 2022 I've worked full-time on systems, data, AI and automation, and on turning ideas into products that run on their own.
 
-### What I'm building
+### `// 01` Now
 
-- **[FIDELYA](https://fidelya.cl)** is a Customer Intelligence OS for brick-and-mortar retail. It's a multi-tenant SaaS with 60+ modules in production and AURA, a proprietary AI engine for predictive retention.
-- **[B&N Solutions](https://bnsolutions.cl)** works on high-level technology operations: automation, neural networks, custom software and mathematical modeling.
+**Senior AI Engineer at [AGP](https://www.agpsa.cl)**, a company in the automotive sector operating in Chile, Peru and Mexico.
 
-### Previously
+### `// 02` What I'm building
 
-- **GoAuto** (Dropout Capital): Tech Lead on the dealership management platform used by 50+ dealerships in Chile.
-- **VASCO**: Full-stack engineer on computer vision for power line inspection and defect detection with quadruped robots.
+<table>
+  <tr>
+    <td width="50%"><a href="https://fidelya.cl"><img src="assets/fidelya.svg" width="100%" alt="FIDELYA: Customer Intelligence OS for brick-and-mortar retail"></a></td>
+    <td width="50%"><a href="https://bnsolutions.cl"><img src="assets/bn.svg" width="100%" alt="B&N Solutions: automation, neural networks, custom software and mathematical modeling"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://nova-spaceapps.vercel.app"><img src="assets/nova.svg" width="100%" alt="NOVA: health copilot for astronauts on the way to Mars, NASA Space Apps 2026"></a></td>
+    <td width="50%"><a href="https://luka-web-three.vercel.app"><img src="assets/luka.svg" width="100%" alt="LUKA: personal finance assistant for Chile"></a></td>
+  </tr>
+</table>
 
-### Featured open source
+- **FIDELYA** is a multi-tenant SaaS that captures how people behave in physical stores and turns it into predictive retention through AURA, its own AI engine.
+- **B&N Solutions** is the company I run with Benjamín Campos. We take on high-level technology operations for businesses that need engineering.
+- **NOVA** is a mobile health copilot for astronaut crews, built for NASA Space Apps 2026. It talks in real time, and it only makes health statements when there's evidence behind them.
+- **LUKA** is a personal finance assistant by B&N. It tells you what you can spend today, logs expenses by chat or voice, and reads bank notices without ever asking for your password.
+
+### `// 03` Open source
 
 | Project | What it is |
 |---|---|
 | [**bn-lab-simulations**](https://github.com/4mser/bn-lab-simulations) | 40 interactive physics and math simulations plus a GPU Navier-Stokes solver. Zero dependencies, with validated numerical methods. |
-| [**flow**](https://github.com/4mser/flow) | Multiplayer OS layer written in Rust. Cross-platform clipboard sharing and peer discovery between PCs on the same network. |
+| [**flow**](https://github.com/4mser/flow) | Multiplayer OS layer written in Rust. Cross-platform clipboard sharing, file transfer and peer discovery on a local network. |
 | [**fidelya-print-bridge**](https://github.com/4mser/fidelya-print-bridge) | Local USB and Ethernet print agent for thermal printers, with a per-printer queue and automatic recovery. |
 
-### Stack
+### `// 04` Stack
 
-TypeScript · React / Next.js · Node.js · Python · Rust · .NET / C# · PostgreSQL · SQL Server · Azure · Vercel · LLMs & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,rust,tauri,cs,dotnet&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, Rust, Tauri, C#, .NET"><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,threejs,tailwind,docker,azure,vercel,figma&theme=dark" alt="MongoDB, Redis, Three.js, Tailwind, Docker, Azure, Vercel, Figma">
+</p>
+
+React Native / Expo · Skia · SQL Server · LLM APIs (Claude, Gemini, OpenAI) · computer vision · numerical methods
+
+### `// 05` Trajectory
+
+| When | Role |
+|---|---|
+| Oct 2026 → now | Senior AI Engineer · **AGP** |
+| Jul 2026 → now | Co-founder & CTO · **B&N Solutions** |
+| Jan 2025 → now | Co-founder & CEO · **FIDELYA** |
+| Oct 2025 → Jul 2026 | Tech Lead · **GoAuto** (Dropout Capital), a dealership platform used by 50+ dealerships in Chile |
+| Mar 2024 → Sep 2024 | Full-Stack Developer · **VASCO**, working on computer vision for power line inspection and robotic defect detection |
+| 2019 → 2022 | Physics Engineering · Universidad Andrés Bello |
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Transmitting since 2022">
+</p>
