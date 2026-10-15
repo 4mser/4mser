@@ -19,12 +19,12 @@ I studied Physics Engineering and brought that way of thinking to software. Sinc
 
 <table>
   <tr>
-    <td width="50%"><a href="https://fidelya.cl"><img src="assets/fidelya.svg" width="100%" alt="FIDELYA: Customer Intelligence OS for brick-and-mortar retail"></a></td>
+    <td width="50%"><a href="https://fidelya.cl"><img src="assets/fidelya.svg" width="100%" alt="FIDELYA and its mascot AURA: Customer Intelligence OS for brick-and-mortar retail"></a></td>
     <td width="50%"><a href="https://bnsolutions.cl"><img src="assets/bn.svg" width="100%" alt="B&N Solutions: automation, neural networks, custom software and mathematical modeling"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://nova-spaceapps.vercel.app"><img src="assets/nova.svg" width="100%" alt="NOVA: health copilot for astronauts on the way to Mars, NASA Space Apps 2026"></a></td>
-    <td width="50%"><a href="https://luka-web-three.vercel.app"><img src="assets/luka.svg" width="100%" alt="LUKA: personal finance assistant for Chile"></a></td>
+    <td width="50%"><a href="https://nova-spaceapps.vercel.app"><img src="assets/nova.svg" width="100%" alt="NOVA, the health copilot for astronauts on the way to Mars, NASA Space Apps 2026"></a></td>
+    <td width="50%"><a href="https://luka-web-three.vercel.app"><img src="assets/luka.svg" width="100%" alt="LUKA, the personal finance assistant for Chile, with its coin"></a></td>
   </tr>
 </table>
 
@@ -44,7 +44,7 @@ I studied Physics Engineering and brought that way of thinking to software. Sinc
 ### `// 04` Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,rust,tauri,cs,dotnet&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, Rust, Tauri, C#, .NET"><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,rust,tauri,cs&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, Rust, Tauri, C#"><br>
   <img src="https://skillicons.dev/icons?i=mongodb,redis,threejs,tailwind,docker,azure,vercel,figma&theme=dark" alt="MongoDB, Redis, Three.js, Tailwind, Docker, Azure, Vercel, Figma">
 </p>
 
