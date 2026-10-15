@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Nicolás Moreno — Senior AI Engineer at AGP · Co-founder & CTO at B&N Solutions · Co-founder & CEO at FIDELYA">
+  <img src="assets/hero.svg?v=2" width="100%" alt="Nicolás Moreno — Senior AI Engineer at AGP · Co-founder & CTO at B&N Solutions · Co-founder & CEO at FIDELYA">
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@ I studied Physics Engineering and brought that way of thinking to software. Sinc
 
 <table>
   <tr>
-    <td width="50%"><a href="https://fidelya.cl"><img src="assets/fidelya.svg" width="100%" alt="FIDELYA and its mascot AURA: Customer Intelligence OS for brick-and-mortar retail"></a></td>
-    <td width="50%"><a href="https://bnsolutions.cl"><img src="assets/bn.svg" width="100%" alt="B&N Solutions: automation, neural networks, custom software and mathematical modeling"></a></td>
+    <td width="50%"><a href="https://fidelya.cl"><img src="assets/fidelya.svg?v=2" width="100%" alt="FIDELYA and its mascot AURA: Customer Intelligence OS for brick-and-mortar retail"></a></td>
+    <td width="50%"><a href="https://bnsolutions.cl"><img src="assets/bn.svg?v=2" width="100%" alt="B&N Solutions: automation, neural networks, custom software and mathematical modeling"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://nova-spaceapps.vercel.app"><img src="assets/nova.svg" width="100%" alt="NOVA, the health copilot for astronauts on the way to Mars, NASA Space Apps 2026"></a></td>
-    <td width="50%"><a href="https://luka-web-three.vercel.app"><img src="assets/luka.svg" width="100%" alt="LUKA, the personal finance assistant for Chile, with its coin"></a></td>
+    <td width="50%"><a href="https://nova-spaceapps.vercel.app"><img src="assets/nova.svg?v=2" width="100%" alt="NOVA, the health copilot for astronauts on the way to Mars, NASA Space Apps 2026"></a></td>
+    <td width="50%"><a href="https://luka-web-three.vercel.app"><img src="assets/luka.svg?v=2" width="100%" alt="LUKA, the personal finance assistant for Chile, with its coin"></a></td>
   </tr>
 </table>
 
@@ -62,5 +62,5 @@ React Native / Expo · Skia · SQL Server · LLM APIs (Claude, Gemini, OpenAI) �
 | 2019 → 2022 | Physics Engineering · Universidad Andrés Bello |
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Transmitting since 2022">
+  <img src="assets/footer.svg?v=2" width="100%" alt="Transmitting since 2022">
 </p>
