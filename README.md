@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nicolas-moreno.vercel.app"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-moreno"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nicolasmorenoavila"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://bnsolutions.cl"><b>B&N Solutions</b></a> &nbsp;·&nbsp;
   <a href="https://fidelya.cl"><b>FIDELYA</b></a>
 </p>
