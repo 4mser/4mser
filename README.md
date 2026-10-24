@@ -33,15 +33,40 @@ I studied Physics Engineering and brought that way of thinking to code and desig
 - **NOVA** is a mobile health copilot for astronaut crews, built for NASA Space Apps 2026. It talks in real time, and it only makes health statements when there's evidence behind them.
 - **LUKA** is a personal finance assistant by B&N. It tells you what you can spend today, logs expenses by chat or voice, and reads bank notices without ever asking for your password.
 
-### `// 03` Open source
+### `// 03` B&N Lectures
+
+<p align="center">
+  <a href="https://bnsolutions.cl/lectures"><img src="assets/lectures.svg?v=1" width="100%" alt="B&N Lectures: the field of two charges carries particles from +q to −q around the B&N LECTURES mark. Every great discovery began with a question"></a>
+</p>
+
+<p align="center">
+  <a href="https://bnsolutions.cl/lectures"><b>bnsolutions.cl/lectures</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/4mser/bn-lectures"><b>Source</b></a>
+</p>
+
+**B&N Lectures** are animated science lessons for university students, made at B&N Solutions. Every video is programmed end to end: scenes are functions of time, simulations solve the actual physics, and every number on screen is computed in the same frame. Field lines are integrated, forces are added up and constants come from CODATA, so what you see is the result of the calculation, not an approximate drawing. The first series, Electricity and Magnetism, follows the course notes of Javier Patiño. The lessons are in Spanish, and all the code is open.
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lectures-clases"><img src="https://raw.githubusercontent.com/4mser/bn-lectures/main/docs/assets/card-clases.gif" width="100%" alt="Six moments from the Electricity and Magnetism series: Rutherford, the torsion balance, the field lines of a dipole, a charge on a parabolic path, the infinite plane and a charged semicircle"></a><br><a href="https://github.com/4mser/bn-lectures-clases"><b>bn-lectures-clases</b></a><br><sub>The lessons, organized by degree and course, with the notes they follow and a template for new ones.</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lectures-teaser"><img src="https://raw.githubusercontent.com/4mser/bn-lectures/main/docs/assets/card-teaser.gif" width="100%" alt="Black hole with a white accretion disk bending above and below its shadow"></a><br><a href="https://github.com/4mser/bn-lectures-teaser"><b>bn-lectures-teaser</b></a><br><sub>The 93-second teaser in 4:5, 16:9 and 9:16. Canvas and WebGL2, with every cut anchored to the song.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lectures-biblioteca"><img src="https://raw.githubusercontent.com/4mser/bn-lectures/main/docs/assets/card-biblioteca.gif" width="100%" alt="Mosaic of simulation thumbnails changing one by one: electric fields, a black hole, reaction-diffusion and orbits"></a><br><a href="https://github.com/4mser/bn-lectures-biblioteca"><b>bn-lectures-biblioteca</b></a><br><sub>192 simulations and effects, each with its equation, its origin and how reusable it is.</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lab-simulations"><img src="https://raw.githubusercontent.com/4mser/bn-lectures/main/docs/assets/card-lab.gif" width="100%" alt="Live lab simulations: the Lorenz attractor, the double slit, a wormhole, a Chladni figure, curved spacetime and a spiral galaxy"></a><br><a href="https://github.com/4mser/bn-lab-simulations"><b>bn-lab-simulations</b></a><br><sub>The interactive lab: forty simulations in the browser and a GPU Navier-Stokes fluid, validated against published results.</sub></td>
+  </tr>
+</table>
+
+### `// 04` Open source
 
 | Project | What it is |
 |---|---|
+| [**bn-lectures**](https://github.com/4mser/bn-lectures) | Entry point to B&N Lectures: animated science lessons with real simulations, split across four open repositories. |
 | [**bn-lab-simulations**](https://github.com/4mser/bn-lab-simulations) | 40 interactive physics and math simulations plus a GPU Navier-Stokes solver. Zero dependencies, with validated numerical methods. |
 | [**flow**](https://github.com/4mser/flow) | Multiplayer OS layer written in Rust. Cross-platform clipboard sharing, file transfer and peer discovery on a local network. |
 | [**fidelya-print-bridge**](https://github.com/4mser/fidelya-print-bridge) | Local USB and Ethernet print agent for thermal printers, with a per-printer queue and automatic recovery. |
 
-### `// 04` Stack
+### `// 05` Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,rust,tauri,cs&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, Rust, Tauri, C#"><br>
@@ -50,7 +75,7 @@ I studied Physics Engineering and brought that way of thinking to code and desig
 
 React Native / Expo · Skia · SQL Server · LLM APIs (Claude, Gemini, OpenAI) · computer vision · numerical methods
 
-### `// 05` Trajectory
+### `// 06` Trajectory
 
 | When | Role |
 |---|---|
